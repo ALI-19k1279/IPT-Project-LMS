@@ -1,5 +1,5 @@
 # IPT-Project-LMS
-LMS similar to google classroom but a free version
+LMS similar to google classroom
 
 # Setup
 
